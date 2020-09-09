@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\main.scss"],"names":[],"mappings":"AAEA,KACE,kBAGF,IACE","file":"src.430a205b.css","sourceRoot":"..\\src","sourcesContent":["$sup: salmon;\r\n\r\nbody {\r\n  background: $sup;\r\n}\r\n\r\nimg {\r\n  width: 250px;\r\n}\r\n"]}
